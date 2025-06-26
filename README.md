@@ -34,7 +34,7 @@ Each letter is color-coded to visually represent standard Rubik’s Cube face co
 ## 📂 File Structure
 
 rubiks-cube-solver/
-├── index.html # Main HTML page
-├── style.css # Styling for layout and buttons
-├── script.js # Full cube logic and UI interaction
-└── README.md # Project documentation
+  ├── index.html         # Main UI structure
+  ├── style.css          # Stylesheet for layout and colors
+  ├── script.js          # JavaScript logic for cube operations
+  └── README.md          # Project documentation
