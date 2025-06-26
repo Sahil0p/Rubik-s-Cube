@@ -38,3 +38,16 @@ rubiks-cube-solver/
   ├── style.css          # Stylesheet for layout and colors
   ├── script.js          # JavaScript logic for cube operations
   └── README.md          # Project documentation
+
+
+---
+
+## 📂 File Structure
+
+```yaml
+rubiks-cube-solver/
+  ├── index.html       # Main HTML file with structure and controls
+  ├── style.css        # Styles for layout, buttons, and cube display
+  ├── script.js        # Cube logic, face rotation, scramble & solve
+  ├── README.md        # Project documentation (this file)
+
