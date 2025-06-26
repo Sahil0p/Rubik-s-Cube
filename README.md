@@ -15,7 +15,7 @@ This project provides:
 ![Demo Screenshot](./screenshot.png)
 
 Each letter is color-coded to visually represent standard Rubik’s Cube face colors:
-- `w` – White
+- `w` – Black
 - `r` – Red
 - `g` – Green
 - `y` – Yellow
