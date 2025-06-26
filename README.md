@@ -12,6 +12,7 @@ This project provides:
 
 ## 📸 Demo Preview
 
+![Demo Screenshot](./screenshot.png)
 
 Each letter is color-coded to visually represent standard Rubik’s Cube face colors:
 - `w` – White
